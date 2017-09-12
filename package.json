@@ -1,0 +1,30 @@
+{
+  "name": "generator-restful-nodejs-express-moongose-pm2-starter",
+  "version": "0.1.0",
+  "description": "Yeoman generator for creating RESTful NodeJS APIs, using express, moongose and pm2",
+  "files": ["generators"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgcharameli/restful-nodejs-express-moongose-pm2-starter.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "nodejs",
+    "express",
+    "mongoose",
+    "pm2",
+    "restful"
+  ],
+  "author": "Sergio García Charameli",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sgcharameli/restful-nodejs-express-moongose-pm2-starter/issues"
+  },
+  "homepage": "https://github.com/sgcharameli/restful-nodejs-express-moongose-pm2-starter#readme",
+  "dependencies": {
+    "yeoman-generator": "^2.0.0"
+  }
+}
