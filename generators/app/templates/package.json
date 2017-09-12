@@ -1,0 +1,14 @@
+{
+  "name": "<%= project_name %>",
+  "version": "1.0.0",
+  "description": "<%= description %>",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "author",
+  "license": "ISC"
+}
